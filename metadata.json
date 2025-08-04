@@ -1,0 +1,6 @@
+{
+  "name": "Registro Elettronico formato mobile",
+  "description": "Un'applicazione di registro elettronico per insegnanti per gestire classi, studenti e valutazioni. Permette di visualizzare orari, avvisi, dettagli degli studenti e i loro risultati accademici.",
+  "requestFramePermissions": [],
+  "prompt": ""
+}
